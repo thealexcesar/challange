@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Reflection {
+public class ConsiderTwoPoints {
 
     static int[] findPoint(int px, int py, int qx, int qy) {
         int rx = 2 * qx - px;
